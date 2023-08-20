@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h1><b>Morse Decoder</b></h1>
+  <h1><b>Enumarable</b></h1>
 
 </div>
 
@@ -29,9 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse Decoder <a name="about-project"></a>
+# 📖 Enumarable <a name="about-project"></a>
 
-**Morse Decoder** is an app to decode morse code
+**Enumarable** is an enum module for ruby
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -79,7 +79,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```bash
-  git clone https://github.com/ichsansandy/morse-decoder.git
+  git clone https://github.com/ichsansandy/enumarable-ruby.git
 ```
 
 ### Install
@@ -87,7 +87,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```bash
-  cd morse-decoder
+  cd enumarable-ruby
   bundle install
 ```
 
